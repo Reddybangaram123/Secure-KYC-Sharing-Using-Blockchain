@@ -120,7 +120,7 @@ Use Ganache for local testing of smart contracts. You can also deploy contracts 
 
 **Kummitha Gopal Reddy**  
 💼 Web Developer | 🛡️ Blockchain Enthusiast  
-📧 [reddybangaram123@gmail.com](mailto:kummithagopalreddy854@gmail.com)
+📧 [kummithagopalreddy854@gmail.com](mailto:kummithagopalreddy854@gmail.com)
 
 ## 📜 License
 This project is licensed under the MIT License.
